@@ -1,2 +1,3 @@
 # Construction-Equipement-Delivery-Application
-This is a Software Engineering course project
+
+Note: This project is still under construction. Please read "Reference" for description of the project.
