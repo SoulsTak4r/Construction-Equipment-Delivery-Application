@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "339661002403",
+    "firebase_url": "https://construction-equipment-d6c31.firebaseio.com",
+    "project_id": "construction-equipment-d6c31",
+    "storage_bucket": "construction-equipment-d6c31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339661002403:android:7a8fd698e24a6134909116",
+        "android_client_info": {
+          "package_name": "com.example.constructionequipmentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339661002403-3r6o202vgfe1bqa7571c4l771is7l4pf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.constructionequipmentapp",
+            "certificate_hash": "d4fad5ac0610bdf44e04487da52f048272621005"
+          }
+        },
+        {
+          "client_id": "339661002403-lb7i59ueou2ok11s0r83qohendgenj04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV9iCnTryIN7rBVge96IJx8eE41OXaIlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339661002403-lb7i59ueou2ok11s0r83qohendgenj04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

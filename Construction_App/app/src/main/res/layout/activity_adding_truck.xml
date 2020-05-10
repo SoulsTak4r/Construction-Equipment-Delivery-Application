@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_7"
+    android:orientation="vertical"
+    android:paddingHorizontal="70dp"
+    android:gravity="center_horizontal"
+    tools:context=".AddingTruck">
+
+    <TextView
+        android:id="@+id/textViewV9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingVertical="30dp"
+        android:text="Adding Trucks"
+        android:textColor="@android:color/white"
+        android:textSize="30sp" />
+
+    <EditText
+        android:id="@+id/V_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:hint="ENTER TRUCK NAME"
+        android:padding="15dp" />
+
+    <EditText
+        android:id="@+id/V_size"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:hint="ENTER SIZE"
+        android:padding="15dp" />
+
+
+
+
+
+
+
+    <Button
+        android:id="@+id/buttonV6"
+        android:layout_width="149dp"
+        android:layout_height="71dp"
+        android:layout_marginTop="50dp"
+        android:padding="15dp"
+        android:text="submit" />
+</LinearLayout>
